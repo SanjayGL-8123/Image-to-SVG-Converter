@@ -1,0 +1,10 @@
+# Core dependencies for Image to SVG Vector Converter & Python GUI / Backend
+Pillow>=9.0.0
+opencv-python>=4.5.0
+numpy>=1.20.0
+
+# GUI Framework:
+# Tkinter is part of standard Python (import tkinter).
+# On Windows & macOS, Tkinter is included automatically with Python installations.
+# On Linux systems (e.g. Ubuntu/Debian), install via system package manager:
+# sudo apt-get install python3-tk
