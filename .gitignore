@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Output generated files
+*_converted.svg
+logo.svg
+
+# IDE & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# Temp scratch files
+scratchpad*.md
+implementation_plan.md
+walkthrough.md
